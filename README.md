@@ -1,5 +1,5 @@
 # Basic-Neural-Network
-Train a very basic neural network with TensorFlow + Keras API
+Train a very basic (dense) neural network with TensorFlow + Keras API
 
 Basic classification: Classify images of clothing
 
